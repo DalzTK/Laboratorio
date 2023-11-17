@@ -1,2 +1,1 @@
-cd prueba2
-git push origin master
+
